@@ -11,7 +11,6 @@ public class Aula4_Fatorial
         int numeroAnterior = 0;
         int soma = 0;
 
-
         System.out.print("Insira um número:");
         int numeroUsuario = Reader.readInt();
         for(int i=numeroUsuario; i>0; i--) {
